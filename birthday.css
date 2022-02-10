@@ -1,0 +1,16 @@
+body{
+	width: 760px; /* how wide to make your web page */
+	background-color: #FFFDD0; /* what color to make the background */
+	margin: 0 auto;
+	padding: 0;
+	font:20px/24px Bradley Hand, cursive; /* default font */
+  background-image: url(stars.jpeg);
+}
+header{
+  color: #FF9D5C;
+  font: 30px/32px Snell Roundhand, cursive;
+  text-shadow: 2px 2px #FFFF5C;
+}
+p{
+  color: #A6CB45 /* light green */
+}
